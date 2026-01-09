@@ -29,7 +29,7 @@ Versão 1.0
 
 # 2. Descrição geral do Sistemas
   ## a. Descrição do problema
-  Dificuldade de acesso a informações centralizadas sobre pets disponíveis para adoção em Pedro II.
+  Dificuldade de acesso a informações sobre pets disponíveis para adoção em Pedro II.
   
   ## b. Principais envolvidos e suas características
   ### I. Usuários do Sistema
@@ -52,7 +52,7 @@ Versão 1.0
   - O sistema deve oferecer um botão direto para contato via WhatsApp
  
   ## b. Requisitos não-funcionais
-  - Hisórico
+  - Histórico
   - Favoritar
   - Doação
     
